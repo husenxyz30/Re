@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "puppeteer",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "uuid": "^11.0.5"
+  }
+}
